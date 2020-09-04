@@ -23,6 +23,9 @@
     },
     {
       "description":"Reported to not work in some manufacturer's versions of Android 4.0 and below, though confirmed to work in others."
+    },
+    {
+      "description":"MacOS does not allow elements to be focused in reading modes using the VoiceOver screen reader when the element has `-webkit-user-select: none` or `user-select: none` set"
     }
   ],
   "categories":[
